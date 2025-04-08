@@ -58,3 +58,5 @@ The following improvements are planned for future versions of the calculator:
  * Implement support for more advanced mathematical operations like sin, cosin and even calculation of simple and compund interest
  * Add a graphical user interface in web.
  * Export operation history to a specific file or a database.
+
+Hello world
